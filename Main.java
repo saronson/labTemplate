@@ -4,4 +4,8 @@ public class Main {
        System.out.println("Hello world!");
        System.exit(0);
    }
+   
+   static public int test() {
+       return 5;
+    }
 }
