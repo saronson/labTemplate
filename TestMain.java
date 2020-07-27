@@ -13,6 +13,10 @@ import org.junit.Test;
  */
 public class TestMain
 {
+  public static void main(String args[]) {
+    TestMain test = new TestMain();
+    test.testTest();
+  }
     /**
      * Default constructor for test class TestMain
      */
