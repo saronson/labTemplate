@@ -1,3 +1,5 @@
+Lab Instructions
+---------------------
 Change the Main file so that test() returns 5.
 
 How to create your own repository using this template
