@@ -25,7 +25,7 @@ Your updates should now be saved to your github repository.
 
 How to use with Github Classroom
 --------------------
-1.  In your classroom, chose ... and select Create Assignment
+1.  In your classroom, choose ... and select Create Assignment
 2.  Type an Assignment title and click Continue
 3.  In Select a repository dropdown, choose your repository
 4.  In Select an online IDE, choose Repl.it and then click Continue
