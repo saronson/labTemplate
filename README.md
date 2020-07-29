@@ -27,7 +27,7 @@ How to use with Github Classroom
 --------------------
 1.  In your classroom, choose ... and select Create Assignment
 2.  Type an Assignment title and click Continue
-3.  In Select a repository dropdown, choose your repository
+3.  In Select a repository dropdown, type your repository
 4.  In Select an online IDE, choose Repl.it and then click Continue
 5.  Under Add test dropdown, select Run Java
 6.  Under Test name, type Test JUnit or whatever you want to call your test
